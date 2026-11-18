@@ -6,6 +6,7 @@ ALL_BASE_IMAGES := "quay.io/fedora/fedora-bootc:43 quay.io/fedora/fedora-bootc:4
 # Build the native binary
 build:
    make
+# Test comment
 
 # Static checks
 validate:
